@@ -6,3 +6,8 @@ included: FFT, Convolutions, Decimation, Interpolation, Image/Audio processing a
 
 Report is in English. 
 code is also added in mlx format.
+
+Written By: 
+
+* Ido Sar Shalom 
+* Itay Chairman 
